@@ -1,1 +1,2 @@
 i downloaded the git cmd 
+commit done
